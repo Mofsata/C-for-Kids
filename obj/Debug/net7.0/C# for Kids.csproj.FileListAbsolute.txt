@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\C# for Kids\bin\Debug\net7.0\C# for Kids.exe
+C:\Users\Administrator\Desktop\C# for Kids\bin\Debug\net7.0\C# for Kids.deps.json
+C:\Users\Administrator\Desktop\C# for Kids\bin\Debug\net7.0\C# for Kids.runtimeconfig.json
+C:\Users\Administrator\Desktop\C# for Kids\bin\Debug\net7.0\C# for Kids.dll
+C:\Users\Administrator\Desktop\C# for Kids\bin\Debug\net7.0\C# for Kids.pdb
+C:\Users\Administrator\Desktop\C# for Kids\obj\Debug\net7.0\C# for Kids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C# for Kids\obj\Debug\net7.0\C# for Kids.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C# for Kids\obj\Debug\net7.0\C# for Kids.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C# for Kids\obj\Debug\net7.0\C# for Kids.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C# for Kids\obj\Debug\net7.0\C# for Kids.dll
+C:\Users\Administrator\Desktop\C# for Kids\obj\Debug\net7.0\refint\C# for Kids.dll
+C:\Users\Administrator\Desktop\C# for Kids\obj\Debug\net7.0\C# for Kids.pdb
+C:\Users\Administrator\Desktop\C# for Kids\obj\Debug\net7.0\C# for Kids.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C# for Kids\obj\Debug\net7.0\ref\C# for Kids.dll
