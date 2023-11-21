@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\C# for Kids\\C# for Kids.csproj",
+      "projectUniqueName": "c:\\Users\\Administrator\\Desktop\\C-for-Kids\\C# for Kids.csproj",
       "projectName": "C# for Kids",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\C# for Kids\\C# for Kids.csproj",
+      "projectPath": "c:\\Users\\Administrator\\Desktop\\C-for-Kids\\C# for Kids.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\C# for Kids\\obj\\",
+      "outputPath": "c:\\Users\\Administrator\\Desktop\\C-for-Kids\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config"
